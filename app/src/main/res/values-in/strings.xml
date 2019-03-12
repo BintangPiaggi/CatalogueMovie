@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="overview">Ikhtisar :</string>
+    <string name="movie">Film</string>
+    <string name="tv">Tv</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="change_language">Pengaturan </string>
+    <string name="vote">Pemilih :</string>
+    <string name="language">Bahasa :</string>
+
+    <string name="add">Berhasil memfavorite kan item ini</string>
+    <string name="remove">Berhasil menghapus item ini</string>
+    <string name="favorite">Sukai</string>
+    <string name="detail">Rincian</string>
+    <string name="find_movie">Cari Film</string>
+    <string name="find_tv">Cari Tv</string>
+    <string name="daily">Pengingat Harian</string>
+    <string name="message_reminder_daily"> Hallo yuk cek MovieCatalogue</string>
+    <string name="release_movie_message"> Rilis hari ini, yuk kita cek</string>
+    <string name="turn_on_off_daily_reminder">Nyalakan/matikan Pengingat Harian</string>
+    <string name="turn_on_off_release_movie_reminder">Nyalakan/Matikan Pengingat Rilis Film</string>
+    <string name="set">Ubah</string>
+    <string name="settings_languange">Settings Languange</string>
+</resources>
